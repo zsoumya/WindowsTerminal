@@ -12,6 +12,10 @@
 
   "theme": "dark",
 
+  "initialCols": 160,
+
+  "initialRows": 40,
+
   // You can add more global application settings here.
   // To learn more about global settings, visit https://aka.ms/terminal-global-settings
 
