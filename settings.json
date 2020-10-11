@@ -12,9 +12,9 @@
 
   "theme": "dark",
 
-  "initialCols": 160,
+  "initialCols": 130,
 
-  "initialRows": 40,
+  "initialRows": 35,
 
   // You can add more global application settings here.
   // To learn more about global settings, visit https://aka.ms/terminal-global-settings
@@ -36,7 +36,8 @@
       "fontSize": 12,
       "useAcrylic": true,
       "acrylicOpacity": 0.3,
-      "colorScheme": "One Half Dark"
+      "colorScheme": "Campbell",
+      "antialiasingMode": "cleartype"
     },
     "list": [
       {
