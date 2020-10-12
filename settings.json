@@ -35,7 +35,7 @@
       "fontFace": "Firacode Retina",
       "fontSize": 12,
       "useAcrylic": true,
-      "acrylicOpacity": 0.3,
+      "acrylicOpacity": 0.7,
       "colorScheme": "Campbell",
       "antialiasingMode": "cleartype"
     },
