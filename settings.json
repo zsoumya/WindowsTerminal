@@ -32,11 +32,11 @@
   "profiles": {
     "defaults": {
       // Put settings here that you want to apply to all profiles.
-      "fontFace": "Firacode Retina",
+      "fontFace": "CaskaydiaCove Nerd Font",
       "fontSize": 12,
       "useAcrylic": true,
       "acrylicOpacity": 0.7,
-      "colorScheme": "WildCherry",
+      "colorScheme": "BirdsOfParadise",
       "antialiasingMode": "cleartype",
       "backgroundImageOpacity": 0.2,
       "backgroundImageStretchMode": "none"
