@@ -36,7 +36,7 @@
       "fontSize": 11,
       "useAcrylic": true,
       "acrylicOpacity": 0.7,
-      "colorScheme": "BirdsOfParadise",
+      "colorScheme": "DimmedMonokai",
       "antialiasingMode": "cleartype",
       "backgroundImageOpacity": 0.2,
       "backgroundImageStretchMode": "none"
@@ -117,12 +117,6 @@
         "icon": "E:\\src\\repos\\WindowsTerminal\\Icons\\Repos.png",
         "tabTitle": "Repos",
         "suppressApplicationTitle": true
-      },
-      {
-          "guid": "{a3a2e83a-884a-5379-baa8-16f193a13b21}",
-          "hidden": false,
-          "name": "PowerShell 7 Preview",
-          "source": "Windows.Terminal.PowershellCore"
       }
     ]
   },
