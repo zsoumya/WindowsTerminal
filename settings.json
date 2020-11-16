@@ -36,7 +36,7 @@
       "fontSize": 11,
       "useAcrylic": true,
       "acrylicOpacity": 0.7,
-      "colorScheme": "DimmedMonokai",
+      "colorScheme": "rebecca",
       "antialiasingMode": "cleartype",
       "backgroundImageOpacity": 0.2,
       "backgroundImageStretchMode": "none"
@@ -112,7 +112,7 @@
         "guid": "{560d975b-c2de-43fb-9b1c-46e1314ac043}",
         "hidden": false,
         "name": "Repos",
-        "commandline": "pwsh-preview.cmd -noe -c \"cls; cd e:\\src\\repos\"",
+        "commandline": "pwsh -noe -c \"cls; cd e:\\src\\repos\"",
         "backgroundImage": "E:\\src\\repos\\WindowsTerminal\\Icons\\PSCorePreview.png",
         "icon": "E:\\src\\repos\\WindowsTerminal\\Icons\\Repos.png",
         "tabTitle": "Repos",
